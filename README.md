@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kleos260
-- 👀 I’m interested in Software Development and Web Development 
+- 👀 I’m interested in Software and Web Development plus UX UI Designs
 - 🌱 I’m currently learning google AMP 
 - 💞️ I’m looking to collaborate on Projects that could uplift my skills and knowlegde
 - 📫 Reach me through "kleos.kd@gmail.com"
